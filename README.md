@@ -2,6 +2,7 @@
 Using Amazon Elastic Container Service (ECS) to grab an NGINX image from Amazon Elastic Container Registry (ECR) and run the image.
 
 ## Architecture Design
+![Nginx-ECS-Cluster](https://github.com/ella-adeka/Nginx-ECS-Cluster/assets/70539937/3f78ae57-b9e8-49d8-99f3-5f3807792ac2)
 
 ## Results
 Creating the cluster \
@@ -15,7 +16,6 @@ Tesk definition \
 
 nginx-service \
 ![nginx_service](https://github.com/ella-adeka/Nginx-ECS-Cluster/assets/70539937/011a2ab7-c3a2-4cf6-a17c-14b7317bf187)
-
 
 NGINX welcome page \
 ![ngiinx_welcome_page](https://github.com/ella-adeka/Nginx-ECS-Cluster/assets/70539937/83253f60-69ea-4ae2-9a53-db128059a80f)
